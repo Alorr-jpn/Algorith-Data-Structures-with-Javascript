@@ -17,7 +17,7 @@ function cc(card) {
  if(count > 0)
       decision = "Bet"
 
-  return count + " " + decision
+  return count + "  " + decision
   // Only change code above this line
 }
 
